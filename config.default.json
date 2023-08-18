@@ -1,0 +1,8 @@
+{
+    "hosts": ["google.com"],
+    "ports": [80, 443],
+    "smtpHost": "smtp.mail.com",
+    "user": "",
+    "pass": "",
+    "to": "bob@bob.com"
+}
